@@ -1,0 +1,46 @@
+🔗 Task: AI-Powered YouTube Script and Thumbnail Generator
+Topic Chosen: “I Asked ChatGPT to Run My Day – Here’s What Happened”
+Final Title Used: “ChatGPT Planned My Entire Day... and I Actually Followed It!”
+________________________________________
+⚙️ Step-by-Step Prompt Chain
+________________________________________
+✅ Step 1: Generate Catchy YouTube Titles
+Prompt:
+“Generate 5 catchy YouTube titles for a video where a person follows ChatGPT's instructions to plan their entire day.”
+Output Received:
+1.	I Let ChatGPT Control My Life for 24 Hours – INSANE Results!
+2.	ChatGPT Planned My Entire Day... and I Actually Followed It!
+3.	This is What Happens When AI Runs Your Life for a Day
+4.	I Gave My Day to ChatGPT – Would You Dare Try This?
+5.	Living by ChatGPT’s Rules for 24 Hours (Productive or Chaos?)
+________________________________________
+✅ Step 2: Generate Full YouTube Video Script (850 Words)
+Prompt:
+“Write a YouTube video script for the title: ‘ChatGPT Planned My Entire Day... and I Actually Followed It!’ The tone should be casual, entertaining, and relatable. Include intro, key moments of the day (like morning, work, meals, breaks), and a conclusion with lessons learned. Total script length: ~850 words.”
+Output:
+✔️ Received a structured, engaging script with intro, AI interaction, daily events, outcomes, and conclusion.
+✔️ Used the script in Pictory to create a 5-minute video.
+________________________________________
+✅ Step 3: Thumbnail Idea Generation
+Prompt:
+“Give me a thumbnail concept for the YouTube video titled ‘ChatGPT Planned My Entire Day... and I Actually Followed It!’ Include both short, punchy text and a visual description that can be used in tools like Canva or Midjourney.”
+Output:
+•	Text on Thumbnail: “AI Controls My Day!”
+•	Visual Description: A split screen:
+o	Left side shows a confused human holding a phone showing ChatGPT’s interface.
+o	Right side shows a cartoon robot (representing ChatGPT) pointing at a daily schedule.
+o	Background: a bright morning room with clocks and to-do lists.
+________________________________________
+✅ Step 4: Video Creation
+Tool Used: Pictory.ai
+•	Imported script
+•	Selected voiceover and visuals
+•	Created a 5-minute video
+Prompt to Pictory (contextual):
+“Create a video from this script using a calm AI voice and visuals that represent productivity, daily routine, and AI influence.”
+
+✅ Step 5: Documentation
+Tool Used: Google Docs & GitHub
+•	Stored all assets: prompt_chain.txt, video_script.txt, thumbnail_idea.txt, and video link
+•	Uploaded to GitHub for final project submission
+
